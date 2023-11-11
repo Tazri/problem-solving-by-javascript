@@ -1,0 +1,22 @@
+{
+  "name": "problem-solving-by-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tazri/problem-solving-by-javascript.git"
+  },
+  "author": "Tazri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tazri/problem-solving-by-javascript/issues"
+  },
+  "homepage": "https://github.com/Tazri/problem-solving-by-javascript#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

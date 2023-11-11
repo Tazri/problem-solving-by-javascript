@@ -1,0 +1,1 @@
+countHomogenous("abbcccaa");
