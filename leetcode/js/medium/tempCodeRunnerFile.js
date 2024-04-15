@@ -1,1 +1,1 @@
-.every(Boolean)
+, 2, 3, 4, 12
