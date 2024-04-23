@@ -65,5 +65,3 @@ function last(arr) {
 const histogram = [1, 2, 2];
 
 console.log(largestRectangleArea(histogram));
-
-// TODO
