@@ -7,12 +7,23 @@
   resolved "https://registry.yarnpkg.com/@datastructures-js/heap/-/heap-2.0.0.tgz#581f7fe57a41e089e4f3ebbbee1c9fc6a1b54d39"
   integrity sha512-LIbt3dAK7v7VPoDQ/hNO3KSlUdPLkO74m1A/c+guKhoBiY1192F2Nt0moHU0wyWw/sUV9zAnw1GPyGsS7401ZQ==
 
+"@datastructures-js/heap@^4.3.3":
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/@datastructures-js/heap/-/heap-4.3.3.tgz#824c10f092ab03180702f0dea8ce96227ffe50a8"
+  integrity sha512-UcUu/DLh/aM4W3C8zZfwxxm6/6FIZUlm3mcAXuNOCa6Aj4iizNvNXQyb8DjZQH2jKSQbMRyNlngP6TPimuGjpQ==
+
 "@datastructures-js/priority-queue@^4.2.0":
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/@datastructures-js/priority-queue/-/priority-queue-4.2.0.tgz#b2e5c24c69eed5bbb155196295f3f7b1cabf9bf9"
   integrity sha512-/LUZtUIvTUbWNuRxy4NPLZfPbXP09ygQO5Zup4Qlu+rV3X6cYFcruE3y6RvWDOvWX7uazcilfqLzf1k4vWBvXQ==
   dependencies:
     "@datastructures-js/heap" "^2.0.0"
+
+"@datastructures-js/priority-queue@datastructures-js/priority-queue":
+  version "6.3.1"
+  resolved "https://codeload.github.com/datastructures-js/priority-queue/tar.gz/3428a49b0cea4f03c4b69416be6b08ad4364f76f"
+  dependencies:
+    "@datastructures-js/heap" "^4.3.3"
 
 colors@^1.4.0:
   version "1.4.0"

@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Tazri/problem-solving-by-javascript#readme",
   "dependencies": {
-    "@datastructures-js/priority-queue": "^4.2.0",
+    "@datastructures-js/priority-queue": "datastructures-js/priority-queue",
     "colors": "^1.4.0",
     "lodash": "^4.17.21"
   }
