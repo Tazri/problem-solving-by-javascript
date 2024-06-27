@@ -1,25 +1,17 @@
 {
   "name": "problem-solving-by-javascript",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "tempCodeRunnerFile.js",
   "type": "module",
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^4.1.2",
+    "colors": "^1.4.0",
+    "lodash": "^4.17.21"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tazri/problem-solving-by-javascript.git"
-  },
-  "author": "Tazri",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Tazri/problem-solving-by-javascript/issues"
-  },
-  "homepage": "https://github.com/Tazri/problem-solving-by-javascript#readme",
-  "dependencies": {
-    "@datastructures-js/priority-queue": "datastructures-js/priority-queue",
-    "colors": "^1.4.0",
-    "lodash": "^4.17.21"
-  }
+  "description": ""
 }
